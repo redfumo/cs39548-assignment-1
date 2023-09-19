@@ -1,0 +1,15 @@
+body {
+  font-family: Courier New;
+  /*background-color: rgb(163, 200, 255);*/
+  background-image: url("../img/mangrove.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 110%;
+  text-align: center;
+}
+
+p {
+  background-color: aliceblue;
+  border-radius: 8px;
+  padding: 8px;
+}
