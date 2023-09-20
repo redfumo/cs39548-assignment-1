@@ -1,15 +1,22 @@
+/* Background of the page */
 body {
   font-family: Courier New;
-  /*background-color: rgb(163, 200, 255);*/
   background-image: url("../img/jungle.png");
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 110%;
+  background-size: 110%; /* resize the image to fit the entire screen */
   text-align: center;
 }
 
+/* Added so the text in the description is more visible */
 p {
   background-color: aliceblue;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+/* Added so the name of the animal stands out more */
+span {
   border-radius: 8px;
   padding: 8px;
 }
