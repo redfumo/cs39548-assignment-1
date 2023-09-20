@@ -1,5 +1,21 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  background-color: rgb(177, 236, 212);
+  /*background-image: url("../img/zoo.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;*/
   text-align: center;
+}
+
+#image {
+  background-color: rgb(153, 243, 255);
+}
+
+a {
+  background-color: #5969ff;
+  color: white;
+  padding: 8px;
+  text-align: center;
+  display: inline-block;
 }
